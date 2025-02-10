@@ -12,13 +12,13 @@
 
 ###
 
-<p align="left">I'm Ali Kerem from Istanbul<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning react js - next js<br>🎯 Goals: Contribute to open-source projects, master frontend - backend technologies, and build scalable applications.</p>
+<p align="left">I'm Ali Kerem from Istanbul<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning React.js and Next.js<br>🎯 Goals: Contribute to open-source projects, master frontend and backend technologies, and build scalable applications.</p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-kerem-kaya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
   </a>
 </div>
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
